@@ -1,0 +1,14 @@
+{
+  "level": "info",
+  "timestamp": "2021-05-27T13:41:05.147Z",
+  "logger": "hwlb_watchdog",
+  "caller": "hwlb/watchdog.go:189",
+  "msg": "change trigger",
+  "host": "ops0-netmgt1-1-prd.eng.sfdc.net",
+  "datacenter": "prd",
+  "provider": "hwlb_watchdog",
+  "device": "dcl3-prd",
+  "entity": "dcl3-prd",
+  "action": "SetProfiles",
+  "triggeredBy": "PR_cssl_synthetic.data.sfdc.net: {\"alertTimeout\":\"\",\"allowNonSsl\":\"\",\"appService\":\"\",\"authenticate\":\"\",\"authenticateDepth\":\"\",\"basicAuthRealm\":\"\",\"caFile\":\"\",\"cacheSize\":\"\",\"cacheTimeout\":\"\",\"cert\":\"\",\"certCreatedBy\":\"\",\"certExpiry\":\"\",\"certLifespan\":\"\",\"certLookupByIpaddrPort\":\"\",\"certSerial\":\"\",\"certSource\":\"sfcert\",\"chain\":\"\",\"ciphers\":\"\",\"congestionControl\":\"\",\"datagramLoadBalancing\":\"\",\"defaultsFrom\":\"PR_clientssl\",\"effectiveDate\":\"\",\"enforcement\":null,\"explicitProxy\":null,\"forwardProxyBypassDefaultAction\":\"\",\"genericAlert\":\"\",\"gitHash\":\"\",\"gitSource\":\"core/profiles/synthetic-cssl.yaml\",\"gitTimeStamp\":\"\",\"handshakeTimeout\":\"\",\"headerErase\":\"\",\"headerInsert\":\"\",\"idleTimeout\":\"\",\"inheritCertKeyChain\":\"\",\"key\":\"\",\"lwsWidth\":\"\",\"maxSegmentSize\":\"\",\"modSslMethods\":\"\",\"mode\":\"\",\"nagle\":\"\",\"name\":\"PR_cssl_synthetic.data.sfdc.net\",\"observedOnly\":false,\"oneConnectTransform\":\"\",\"passphrase\":\"none\",\"peerCertMode\":\"\",\"proxyBufferHigh\":\"\",\"proxyBufferLow\":\"\",\"proxySsl\":\"\",\"proxyType\":\"\",\"receiveWindowSize\":\"\",\"renegotiateMaxRecordDelay\":\"\",\"renegotiatePeriod\":\"\",\"renegotiateSize\":\"\",\"renegotiation\":\"\",\"requestChunking\":\"\",\"responseChunking\":\"\",\"retainCertificate\":\"\",\"secureRenegotiation\":\"\",\"sendBufferSize\":\"\",\"sessionTicket\":\"\",\"sniDefault\":\"\",\"sniRequire\":\"\",\"sslForwardProxy\":\"\",\"sslForwardProxyBypass\":\"\",\"sslSignHash\":\"\",\"strictResume\":\"\",\"type\":\"client-ssl\",\"uncleanShutdown\":\"\",\"vipCertCN\":\"hwlb0-netmgt1-0-prd.data.sfdc.net\",\"vipCertSAN\":null,\"zeroWindowTimeout\":\"\"} (was null)\nvipCertSAN: [] (was null)\npassphrase: \"none\" (was \"\")\n"
+}
